@@ -1,0 +1,3 @@
+Target, String, Hash
+b00da, f1cb9cb00da0295675164b19a808da6b69c8c86cd3e56af4a6bb9ca9040d510e, Postulacion Dev - El PoW es el subject completo! Nonce:X8m7
+b000da, 666c6bb000da8598ab32cb9d57a7c203cb2c23d8defa75a7367e8564795dd2b2, Postulacion Dev - El PoW es el subject completo! Nonce:PJ6M
